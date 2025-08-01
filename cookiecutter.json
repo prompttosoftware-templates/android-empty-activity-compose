@@ -1,0 +1,7 @@
+{
+  "app_name": "MyApp",
+  "package_name": "com.example.app",
+  "package_path": "{{ cookiecutter.package_name.replace('.', '/') }}",
+  "app_name_lower": "{{ cookiecutter.app_name.lower() }}",
+  "app_name_pascal": "{{ cookiecutter.app_name.title().replace(' ', '') }}"
+}
