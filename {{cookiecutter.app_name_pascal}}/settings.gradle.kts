@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "{{cookiecutter.app_name_lower}}"
+rootProject.name = "{{cookiecutter.app_name_kebab}}"
 include(":app")
  
