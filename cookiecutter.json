@@ -5,5 +5,5 @@
   "app_name_lower": "{{ cookiecutter.app_name_lower }}",
   "app_name_pascal": "{{ cookiecutter.app_name_pascal }}",
   "app_name_snake": "{{ cookiecutter.app_name_snake }}",
-  "app_name_kabab": "{{cookiecutter.app_name_kebab}}"
+  "app_name_kebab": "{{cookiecutter.app_name_kebab}}"
 }
